@@ -147,6 +147,7 @@ PACKAGE_URL_LIST   ?= https://files-rs.edgeorchestration.intel.com/files-edge-or
 PACKAGE_URL_LIST   += https://files-rs.edgeorchestration.intel.com/files-edge-orch/microvisor/rpm/$(RELEASE_MAJOR_ID)/RPMS/x86_64
 PACKAGE_URL_LIST   += https://files-rs.edgeorchestration.intel.com/files-edge-orch/microvisor/rpm/$(RELEASE_MAJOR_ID)/RPMS/noarch
 PACKAGE_URL_LIST   += https://files-rs.edgeorchestration.intel.com/files-edge-orch/microvisor/rpm/$(RELEASE_MAJOR_ID)/RPMS/debuginfo
+PACKAGE_URL_LIST   += http://rpm-edgemicrovisor.intel.com/3.0/RPMS/x86_64
 
 REPO_LIST          ?=
 SRPM_URL_LIST      ?= https://files-rs.edgeorchestration.intel.com/files-edge-orch/microvisor/rpm/$(RELEASE_MAJOR_ID)/SRPMS
