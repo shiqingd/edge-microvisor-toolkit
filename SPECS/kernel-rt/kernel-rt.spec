@@ -20,6 +20,26 @@ Patch2:         CVE-2025-21807.patch
 Patch3:         CVE-2025-21817.patch
 Patch4:         CVE-2025-21884.patch
 Patch5:         CVE-2025-21884-1.patch
+Patch6:         CVE-2025-22101.patch
+Patch7:         CVE-2025-22103.patch
+Patch8:         CVE-2025-22104.patch
+Patch9:         CVE-2025-22105.patch
+Patch10:        CVE-2025-22105-1.patch
+Patch11:        CVE-2025-22106.patch
+Patch12:        CVE-2025-22108.patch
+Patch13:        CVE-2025-22111.patch
+Patch14:        CVE-2025-22113.patch
+Patch15:        CVE-2025-22113-1.patch
+Patch16:        CVE-2025-22116.patch
+Patch17:        CVE-2025-22117.patch
+Patch18:        CVE-2025-22121.patch
+Patch19:        CVE-2025-22121-1.patch
+Patch20:        CVE-2025-22122.patch
+Patch21:        CVE-2025-22124.patch
+Patch22:        CVE-2025-23131.patch
+Patch23:        CVE-2025-23137.patch
+Patch24:        CVE-2025-37746.patch
+Patch25:        CVE-2025-37746-1.patch
 
 
 %global security_hardening none
